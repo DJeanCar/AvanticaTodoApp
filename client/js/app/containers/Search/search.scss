@@ -1,0 +1,16 @@
+
+.search {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex: .7;
+	padding: .5em 0;
+	background-color: #D8D8D8;
+
+	input {
+		border: none;
+		font-size: .9em;
+		padding: .3em;
+		width: 80%;
+	}
+}

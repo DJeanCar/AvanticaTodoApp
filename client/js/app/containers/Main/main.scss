@@ -1,0 +1,21 @@
+
+.main {
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+}
+
+.input {
+	flex: 1;
+	border-bottom: 1px solid rgba(0, 0, 0, .1);
+
+	input {
+		margin: 1em auto;
+		display: block;
+		width: 80%;
+		border: none;
+		font-weight: 100;
+		background-color: #F6F6F6;
+		padding: .6em;
+	}
+}

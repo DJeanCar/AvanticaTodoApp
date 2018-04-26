@@ -1,0 +1,7 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	background-color: #edeef0;
+}
+span, p, h1 {
+	margin: 0;
+}
